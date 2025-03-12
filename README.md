@@ -156,7 +156,45 @@ This project is licensed under the MIT License.
 
 <h2 id="teams">📌 Team Members </h2>
 
-- Muhammad Ammar Danial Bin Abdullah (22301793)
-- Ashman Bin Mohd Fauzi (22303774)
-- Ng Xuan Hern (22304061)
-- Lim Wei Ling (22306277)
+<p>Special thanks to all contributors of this project.</p>
+<table>
+<tr>
+
+<td align="center">
+<a href="https://github.com/Some0ne11">
+<img src="https://avatars.githubusercontent.com/u/122141550?v=4" width="100px;" alt="Profile Picture"/><br>
+<sub>
+<b>Muhammad Ammar Danial Bin Abdullah</b>
+</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="#">
+<img src="#" width="100px;" alt="Profile Picture"/><br>
+<sub>
+<b>Ashman Bin Mohd Fauzi</b>
+</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="#">
+<img src="#" width="100px;" alt="Profile Picture"/><br>
+<sub>
+<b>Ng Xuan Hern</b>
+</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="#">
+<img src="#" width="100px;" alt="Profile Picture"/><br>
+<sub>
+<b>Lim Wei Ling</b>
+</sub>
+</a>
+</td>
+
+</tr>
+</table>
