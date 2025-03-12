@@ -1,18 +1,40 @@
-# FCFS and SSTF Disk Scheduling Algorithms
+<h1 align="center" style="font-weight: bold;">FCFS and SSTF Disk Scheduling Algorithms</h1>
 
-This project implements **First Come, First Serve (FCFS)** and **Shortest Seek Time First (SSTF)** disk scheduling algorithms in C++.
+<p align="center">
+<a href="#overview">Project Overview</a>
+ <span>&nbsp; • &nbsp;</span>
+<a href="#pcode">Program's Code</a>
+ <span>&nbsp; • &nbsp;</span>
+<a href="#install">Installation & Usage</a>
+ <span>&nbsp; • &nbsp;</span>
+<a href="#example-out">Example</a>
+ <span>&nbsp; • &nbsp;</span>
+<a href="#future">Future Enhancement</a>
+ <span>&nbsp; • &nbsp;</span>
+<a href="#license">License</a>
+ <span>&nbsp; • &nbsp;</span>
+<a href="#teams">Team Members</a>
+</p>
 
-## 📌 Project Overview
+<p align="center">This project implements <b>First Come, First Serve (FCFS)</b> and <b>Shortest Seek Time First (SSTF)</b> disk scheduling algorithms in C++.</p>
+
+<p align="center">
+🌐<a href="https://colab.research.google.com/drive/1rlNiFl5Ahy4ulbV_WKDvWbaxwgoPmEwY?usp=sharing" target="_blank" rel="noopener noreferrer">Visit this Project's Playground</a>
+</p>
+
+<h2 id="overview">📌 Project Overview</h2>
+
 Disk scheduling algorithms determine the order in which disk I/O requests are processed to optimize seek time and overall performance. This project provides:
 - A **C++ implementation** of both FCFS and SSTF.
 - User input for disk parameters and request queues.
 - Computation of total seek time for each algorithm.
 
-## 📂 Files Included
+<h2 id="pcode"> 📂 Program's Code </h2>
+
 - `fcfs.cpp` - Implementation of the FCFS algorithm
 - `sstf.cpp` - Implementation of the SSTF algorithm
 
-## 🛠️ Installation & Usage
+<h2 id="install"> 🛠️ Installation & Usage</h2>
 
 ### 1️⃣ Compile the Code
 You can compile both programs using g++:
@@ -31,7 +53,8 @@ For SSTF:
  ./sstf
 ```
 
-## 📊 Example Output
+<h2 id="example-out"> 📊 Example Output</h2>
+
 ### FCFS Example:
 ```
 First Come, First Serve (FCFS) Disk Scheduling Algorithm: 
@@ -106,19 +129,19 @@ Request No.    Cylinder No.   Seek Time
                               208
 ```
 
-## 🏗️ Future Enhancements
+<h2 id="future"> 🏗️ Future Enhancements</h2>
+
 - Add graphical visualization of the disk scheduling process.
 - Implement additional scheduling algorithms such as SCAN and C-SCAN.
 
-## 📜 License
+<h2 id ="license">📜 License</h2>
+
 This project is licensed under the MIT License.
 
----
-📌 **Contributors:**
+<h2 id="teams">📌 Team Members </h2>
+
 - Muhammad Ammar Danial Bin Abdullah (22301793)
 - Ashman Bin Mohd Fauzi (22303774)
 - Ng Xuan Hern (22304061)
 - Lim Wei Ling (22306277)
-
-Feel free to contribute and improve this project! 🚀
 
