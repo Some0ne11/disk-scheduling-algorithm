@@ -36,14 +36,20 @@ Disk scheduling algorithms determine the order in which disk I/O requests are pr
 
 <h2 id="install"> 🛠️ Installation & Usage</h2>
 
-### 1️⃣ Compile the Code
+### 1️⃣ Cloning the repository
+```bash
+git clone https://github.com/Some0ne11/disk-scheduling-algorithm.git
+cd disk-scheduling-algorithm
+```
+
+### 2️⃣ Compile the Code
 You can compile both programs using g++:
 ```bash
  g++ fcfs.cpp -o fcfs
  g++ sstf.cpp -o sstf
 ```
 
-### 2️⃣ Run the Executable
+### 3️⃣ Run the Executable
 For FCFS:
 ```bash
  ./fcfs
@@ -56,6 +62,10 @@ For SSTF:
 <h2 id="example-out"> 📊 Example Output</h2>
 
 ### FCFS Example:
+
+<details>
+<summary><code>output</code></summary>
+
 ```
 First Come, First Serve (FCFS) Disk Scheduling Algorithm: 
 
@@ -91,8 +101,13 @@ Request No.    Cylinder No.   Seek Time
 -------------------------------------------
                               642
 ```
+</details>
 
 ### SSTF Example:
+
+<details>
+<summary><code>output</code></summary>
+
 ```
 Shortest Seek Time First (SSTF) Disk Scheduling Algorithm: 
 
@@ -128,6 +143,7 @@ Request No.    Cylinder No.   Seek Time
 ------------------------------------------
                               208
 ```
+</details>
 
 <h2 id="future"> 🏗️ Future Enhancements</h2>
 
@@ -144,4 +160,3 @@ This project is licensed under the MIT License.
 - Ashman Bin Mohd Fauzi (22303774)
 - Ng Xuan Hern (22304061)
 - Lim Wei Ling (22306277)
-
