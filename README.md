@@ -152,7 +152,7 @@ Request No.    Cylinder No.   Seek Time
 
 <h2 id ="license">📜 License</h2>
 
-This project is licensed under the MIT License.
+This project is licensed under the <a href="LICENSE">MIT License</a>.
 
 <h2 id="teams">📌 Team Members </h2>
 
