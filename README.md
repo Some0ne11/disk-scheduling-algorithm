@@ -179,8 +179,8 @@ This project is licensed under the <a href="LICENSE">MIT License</a>.
 </td>
 
 <td align="center">
-<a href="#">
-<img src="#" width="100px;" alt="Profile Picture"/><br>
+<a href="https://github.com/ngxuanhern">
+<img src="https://avatars.githubusercontent.com/u/177940919?v=4" width="100px;" alt="Profile Picture"/><br>
 <sub>
 <b>Ng Xuan Hern</b>
 </sub>
@@ -188,8 +188,8 @@ This project is licensed under the <a href="LICENSE">MIT License</a>.
 </td>
 
 <td align="center">
-<a href="#">
-<img src="#" width="100px;" alt="Profile Picture"/><br>
+<a href="https://github.com/bringback1899">
+<img src="https://avatars.githubusercontent.com/u/164884629?v=4" width="100px;" alt="Profile Picture"/><br>
 <sub>
 <b>Lim Wei Ling</b>
 </sub>
